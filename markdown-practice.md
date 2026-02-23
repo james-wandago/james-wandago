@@ -16,9 +16,9 @@ this is **the best course** i've ever *thought of** in my `whole life`
 
 ## Exercise 3. Links
 
-https://github.com/james-ochieng
+(https://github.com/james-ochieng)
 
-https://www.arsenal.com
+(https://www.arsenal.com)
 
 ---
 
@@ -83,4 +83,4 @@ Hey, I **strongly believe** that this is goingt to be one of the *most valuable*
 
  ## link
  see my work at
-https:github.com/james-ochieng
+(https://github.com/james-ochieng)
